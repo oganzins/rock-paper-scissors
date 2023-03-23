@@ -2,6 +2,8 @@
 
 ## Uzstādīšana
 
+### Ar datu lejupielādi
+
 1. Lejuplādējam spēles kodu [šeit](https://github.com/oganzins/rock-paper-scissors/archive/refs/heads/main.zip).
 2. Atarhivējam sev vēlamajā vietā.
 3. Atveram atarhivēto direktoriju **"rock-paper-scissors-main"**.
@@ -9,6 +11,10 @@
 5. Pārliecināmies, ka ir redzams spēles logs.
 
 ![image info](./images/game-window.png)
+
+### Izmantojot JsFiddle
+
+https://jsfiddle.net/oganzins/rx10kfcb/5/
 
 ## Uzdevums
 
