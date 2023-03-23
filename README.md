@@ -73,11 +73,11 @@ if (age < 18) {
 
 ```javascript
 if (age < 18) {
-    alert("you can't apply")
+    alert("You can't apply")
 } else if (age > 120) {
-    alert("you can't apply")
+    alert("You can't apply")
 } else {
-    alert("you can apply")
+    alert("You can apply")
 }
 ```
 
