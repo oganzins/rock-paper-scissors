@@ -8,7 +8,7 @@ body {
     align-items: center;
     font-family: 'Nanum Pen Script', cursive;
     color: white;
-    background-image: url('bg.jpg');
+    background-image: url('images/bg.jpg');
     background-size: cover;
 }
 
